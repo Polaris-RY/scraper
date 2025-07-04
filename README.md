@@ -47,6 +47,3 @@ pip install requests beautifulsoup4 lxml pandas selenium pillow pytesseract
 - `README.md`：项目说明
 - 其它依赖文件
 
-## 联系方式
-如有问题请提交issue或联系作者。
-
